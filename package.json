@@ -1,0 +1,24 @@
+{
+  "scripts": {
+    "dev": "",
+    "build": "",
+    "preview": "",
+    "clean": "",
+    "lint": ""
+  },
+  "dependencies": {
+    "@google/genai": "",
+    "@tailwindcss/typography": "",
+    "@tailwindcss/vite": "",
+    "@vitejs/plugin-react": "",
+    "better-sqlite3": "",
+    "dotenv": "",
+    "express": "",
+    "lucide-react": "",
+    "motion": "",
+    "react": "",
+    "react-dom": "",
+    "react-markdown": "",
+    "vite": ""
+  }
+}
